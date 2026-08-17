@@ -90,8 +90,8 @@
 		"zod": "^4.4.3"
 	},
 	"devDependencies": {
-		"@changesets/changelog-github": "^0.7.0",
-		"@changesets/cli": "^2.31.0",
+		"@changesets/changelog-github": "^1.0.0",
+		"@changesets/cli": "^3.0.0",
 		"@commitlint/cli": "^21.0.2",
 		"@commitlint/config-conventional": "^21.0.2",
 		"@commitlint/prompt-cli": "^21.0.2",
@@ -110,9 +110,9 @@
 		"cross-env": "^10.1.0",
 		"lefthook": "^2.1.9",
 		"nock": "^14.0.16",
-		"oxfmt": "^0.58.0",
+		"oxfmt": "^0.63.0",
 		"oxlint": "^1.70.0",
-		"oxlint-tsgolint": "^0.24.0",
+		"oxlint-tsgolint": "^7.0.2001",
 		"tiktoken": "^1.0.22",
 		"tsdown": "^0.22.2",
 		"tsx": "^4.22.4",
